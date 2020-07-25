@@ -1,0 +1,72 @@
+body{
+    background-image: url(bkg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container{
+    text-align: center;
+    margin-top: 40px;
+    color: white;
+}
+
+h1{
+    font-family: 'Ranchers', cursive;
+    font-size: 5em;
+}
+
+input{
+    width: 350px;
+    height: 40px;
+    border-radius: 10px;
+    margin-left: 630px;
+}
+
+.addbtn{
+    margin-top: 20px;
+    margin-left: 700px;
+    border-radius: 10px;
+    background-color: yellowgreen;
+    border: none;
+    color: white;
+    padding: 3px;
+}
+
+.dltbtn{
+    border-radius: 10px;
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 3px;
+}
+
+ul {
+	
+	margin-top: 2rem;
+	list-style: none;
+    color: seashell;
+    text-align: center;
+}
+li {
+	border-bottom: 1px solid white;
+	padding: 0.5rem 0 0.5rem 0;
+	margin: 0 1rem 0 1rem;
+}
+
+.btn2{
+    color: white;
+    background-color: turquoise;
+    border-radius: 10px;
+    padding: 2px;
+    margin-left: 0px;
+}
+
+.btn{
+    color: white;
+    background-color: turquoise;
+    border-radius: 10px;
+    padding: 2px;
+    margin-left: 20px;
+
+}
+
